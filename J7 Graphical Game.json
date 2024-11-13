@@ -726,6 +726,162 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Item Pack/Resources/1dfe3c6857d14b818d38b23af7efcebd94969059e7744c51991d87afb49d8a73_Brick.png",
           "name": "Brick.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/cc28fa46d80ceec4dcc6372720f25764b2688cfcafed1c8481c61239a3abf1d7_Box1_Break_1.png",
+          "name": "Box1_Break_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/5a21f6911635d5ae66e8cf1d5609f5f02b37c4d5ac7558927f34b3e36367c614_Box1_Break_2.png",
+          "name": "Box1_Break_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/78ca2bed59bc4fec28059a84edf77679f1904ed5b4058b98231eea80b17cc57f_Box1_Break_3.png",
+          "name": "Box1_Break_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Break_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Break_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/fc69a787d6976239500ebfe660aca06ae2b195002c930a839c55b0982c2bdd7a_Box1_Break_4.png",
+          "name": "Box1_Break_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Hit_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/dd7e194e9bb66c967296fdc6ed37f2424967becda48ffb67a580b74e779b484b_Box1_Hit_1.png",
+          "name": "Box1_Hit_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Hit_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Hit_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/0cdc61e72d326afd751e542c85dba70ccd735d43b713c2a68425e84776fd98df_Box1_Hit_2.png",
+          "name": "Box1_Hit_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Hit_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Hit_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/9d2f9b3a0b5a0f6746e1c4ea25e33a7e91882606130518a8bedcd683e9f40489_Box1_Hit_3.png",
+          "name": "Box1_Hit_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box1_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box1_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Crate/d94e066248d975ded9ba373dcf8f4eacd3103b4bb8a00ac545ab67f6bcd11a18_Box1_Idle.png",
+          "name": "Box1_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Person.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Person.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/d866620a37d15c2d30ced147d2fb1c516ecb67184c0a945e70afbb03e9d59f57_Person.png",
+          "name": "Person.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flower Bulb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flower Bulb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/abbb10ef2f22cbd52212c0df5ac294376b5836039dc89740d5b7dc464aff4355_Flower Bulb_No Shadow.png",
+          "name": "Flower Bulb_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flower Bulb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flower Bulb_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/05e8f887d603c709b5ffb97203c86495fe1ac5d0b8240cd6f3010fc1dab2cac7_Flower Bulb_Shadow.png",
+          "name": "Flower Bulb_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Person2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Person.png2",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Shadow/9cdb9f7a2c431a086633a3c7d72fd023162e090cfffa164c3331d70fdb4f3330_Person.png",
+          "name": "Person.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -757,23 +913,29 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9934433498259571,
+        "zoomFactor": 2.967864077869543,
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "flower1_count",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "instances": [
         {
           "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Player",
+          "layer": "interactives",
           "name": "Kid1",
           "persistentUuid": "e04de6f3-62b2-426f-ba99-69bb61092fde",
           "width": 0,
-          "x": 665,
-          "y": 309,
+          "x": 750,
+          "y": 358,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -784,7 +946,7 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Player",
+          "layer": "interactives",
           "name": "Brick",
           "persistentUuid": "a66216bc-6d2f-4d47-b93e-0ba7890f4700",
           "width": 0,
@@ -800,7 +962,7 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Player",
+          "layer": "interactives",
           "name": "Brick",
           "persistentUuid": "cbe794ae-7c47-47da-8dee-2f6d53fa5965",
           "width": 0,
@@ -816,7 +978,7 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Player",
+          "layer": "interactives",
           "name": "Brick",
           "persistentUuid": "c0d2fd60-64ab-469f-aade-d41bc4f436ec",
           "width": 0,
@@ -832,7 +994,7 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Player",
+          "layer": "interactives",
           "name": "Brick",
           "persistentUuid": "441bb9eb-b18f-4079-98b8-b9fbdaa610de",
           "width": 0,
@@ -848,7 +1010,7 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Player",
+          "layer": "interactives",
           "name": "Brick",
           "persistentUuid": "fdebfc3e-33f4-4c1b-b987-83156ae620d4",
           "width": 0,
@@ -864,13 +1026,149 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Player",
+          "layer": "interactives",
           "name": "Brick",
           "persistentUuid": "d69b558f-5d21-4c67-b1e8-25a40fc736e6",
           "width": 0,
           "x": 425,
           "y": 237,
           "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "FlowerBulb",
+          "persistentUuid": "42322776-e8b5-4815-ad5e-8c475d792e78",
+          "width": 7,
+          "x": 822,
+          "y": 268,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "FlowerBulb",
+          "persistentUuid": "b9cf4bda-9a0c-4e07-9f39-80ddf69c39e8",
+          "width": 7,
+          "x": 909,
+          "y": 242,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "FlowerBulb",
+          "persistentUuid": "a8135076-6c3e-4d08-9820-0b3d8ea072dc",
+          "width": 7,
+          "x": 672,
+          "y": 233,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "FlowerBulb",
+          "persistentUuid": "67b8719d-3776-40e6-9b45-57ad37ffeca2",
+          "width": 7,
+          "x": 611,
+          "y": 335,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "FlowerBulb",
+          "persistentUuid": "5c115a2c-ff58-40bd-9855-1e5a9375415f",
+          "width": 7,
+          "x": 770,
+          "y": 179,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "FlowerBulb",
+          "persistentUuid": "f6480431-6a1e-42f1-aebd-7913225ee876",
+          "width": 7,
+          "x": 920,
+          "y": 295,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 7,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "FlowerBulb",
+          "persistentUuid": "6f094cbe-34cc-4158-9374-4f16eacae269",
+          "width": 7,
+          "x": 874,
+          "y": 207,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "NPC",
+          "persistentUuid": "9dae5b53-1f1b-432b-b985-8e2f491228a5",
+          "width": 14,
+          "x": 773,
+          "y": 256,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -895,10 +1193,10 @@
               "OffsetY": 0
             },
             {
-              "acceleration": 300,
-              "maxSpeed": 100,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "acceleration": 300,
+              "maxSpeed": 100,
               "allowDiagonals": false,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -2220,11 +2518,190 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "2f988b46aa5f714ce665a31559ff0208ada4b3d80589b9cc98148fdbdc46a71d",
+          "name": "FlowerBulb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Flower Bulb_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Flower Bulb_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 4
+                          },
+                          {
+                            "x": 29,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "9527eb28c98d8093e8c2b434578dd9cdee50a19c8c8b91be2208298ee0dcade2",
+          "name": "NPC",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Person.png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 14
+                          },
+                          {
+                            "x": 0,
+                            "y": 14
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "interactives (prototype)",
+            "children": [
+              {
+                "objectName": "NPC"
+              },
+              {
+                "objectName": "FlowerBulb"
+              }
+            ]
+          },
           {
             "objectName": "Kid1"
           },
@@ -2430,6 +2907,11 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ],
           "parameters": []
@@ -2456,7 +2938,7 @@
               "parameters": [
                 "",
                 "5",
-                "\"Player\"",
+                "\"interactives\"",
                 "0"
               ]
             },
@@ -2468,11 +2950,183 @@
                 "",
                 "Kid1",
                 "",
-                "\"Player\"",
+                "\"interactives\"",
                 ""
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Flower and NPC Interaction ",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Kid1",
+                "FlowerBulb",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "FlowerBulb",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "flower1_count",
+                "+",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Kid1",
+                "NPC",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "flower1_count",
+                "<",
+                "5"
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Kid1",
+                "FlowerBulb",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Kid1",
+                "NPC",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Variables",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "flower1_count",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -2564,7 +3218,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "isLocked": false,
-          "name": "Player",
+          "name": "interactives",
           "renderingType": "",
           "visibility": true,
           "cameras": [],
