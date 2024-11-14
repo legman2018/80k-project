@@ -913,7 +913,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.967864077869543,
+        "zoomFactor": 0.7130377630690452,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1169,6 +1169,40 @@
           "x": 773,
           "y": 256,
           "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 240,
+          "keepRatio": true,
+          "layer": "",
+          "name": "text1",
+          "persistentUuid": "763ea9f5-f9ef-43a7-b6f9-fc844109687c",
+          "width": 669,
+          "x": 318,
+          "y": 461,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 197,
+          "keepRatio": true,
+          "layer": "",
+          "name": "text2",
+          "persistentUuid": "4b9ed282-552b-429f-a0fd-1007a1fd6f76",
+          "width": 623,
+          "x": 338,
+          "y": 478,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2686,11 +2720,60 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "text1",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "-Will insert text in final-  *to unlock new dialogue collect 5 flowers* ",
+            "opacity": 255,
+            "scale": 3,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "text2",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "-new dialogue after flowers collected- ",
+            "opacity": 255,
+            "scale": 3,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "left",
+            "wordWrap": true
+          }
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "dialogue",
+            "children": [
+              {
+                "objectName": "text2"
+              },
+              {
+                "objectName": "text1"
+              }
+            ]
+          },
           {
             "folderName": "interactives (prototype)",
             "children": [
@@ -3057,9 +3140,80 @@
                 "<",
                 "5"
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "text1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Kid1",
+                "NPC",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "flower1_count",
+                ">=",
+                "5"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "text2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "text1"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -3119,6 +3273,22 @@
                 "flower1_count",
                 "=",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "text1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "text2"
               ]
             }
           ]
@@ -3269,6 +3439,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
