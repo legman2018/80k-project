@@ -1071,6 +1071,60 @@
         "name": "tilemap.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Titlescreen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Titlescreen.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Titlescreen2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Titlescreen2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Titlescreen3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Titlescreen3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Titlescreen4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Titlescreen4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Titlescreen5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Titlescreen5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Titlescreen6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Titlescreen6.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1102,7 +1156,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.5739028282296528,
+        "zoomFactor": 2.052118220670002,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3564,6 +3618,152 @@
         {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Title_32Screen",
+      "name": "Title Screen",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.7370816317994028,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TitleScreen",
+          "persistentUuid": "8389001b-9076-4989-8df2-5d1408f0ed3d",
+          "width": 0,
+          "x": -2,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 720,
+          "leftMargin": 0,
+          "name": "TitleScreen",
+          "rightMargin": 0,
+          "texture": "Titlescreen6.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 1280,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "bottomEdgeAnchor": 2,
+              "leftEdgeAnchor": 1,
+              "name": "Anchor",
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 2,
+              "topEdgeAnchor": 1,
+              "type": "AnchorBehavior::AnchorBehavior",
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "TitleScreen"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
         }
       ]
     }
