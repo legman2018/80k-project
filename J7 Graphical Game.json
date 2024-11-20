@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 217,
+    "build": 218,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -302,7 +302,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Down_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Down_1.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Down_1.png",
         "smoothed": false,
         "userAdded": false,
@@ -315,7 +315,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Down_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Down_2.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Down_2.png",
         "smoothed": false,
         "userAdded": false,
@@ -328,7 +328,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Down_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Down_3.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Down_3.png",
         "smoothed": false,
         "userAdded": false,
@@ -341,7 +341,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Down_4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Down_4.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Down_4.png",
         "smoothed": false,
         "userAdded": false,
@@ -367,7 +367,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Left_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Left_2.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Left_2.png",
         "smoothed": false,
         "userAdded": false,
@@ -380,7 +380,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Left_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Left_3.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Left_3.png",
         "smoothed": false,
         "userAdded": false,
@@ -393,7 +393,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Left_4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Left_4.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Left_4.png",
         "smoothed": false,
         "userAdded": false,
@@ -432,7 +432,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Right_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Right_3.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Right_3.png",
         "smoothed": false,
         "userAdded": false,
@@ -458,7 +458,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Up_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Up_1.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Up_1.png",
         "smoothed": false,
         "userAdded": false,
@@ -484,7 +484,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Idle Up_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Idle Up_3.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Idle Up_3.png",
         "smoothed": false,
         "userAdded": false,
@@ -510,7 +510,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Down_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Down_1.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Down_1.png",
         "smoothed": false,
         "userAdded": false,
@@ -523,7 +523,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Down_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Down_2.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Down_2.png",
         "smoothed": false,
         "userAdded": false,
@@ -536,7 +536,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Down_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Down_3.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Down_3.png",
         "smoothed": false,
         "userAdded": false,
@@ -562,7 +562,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Left_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Left_1.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Left_1.png",
         "smoothed": false,
         "userAdded": false,
@@ -575,7 +575,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Left_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Left_2.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Left_2.png",
         "smoothed": false,
         "userAdded": false,
@@ -588,7 +588,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Left_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Left_3.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Left_3.png",
         "smoothed": false,
         "userAdded": false,
@@ -601,7 +601,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Left_4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Left_4.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Left_4.png",
         "smoothed": false,
         "userAdded": false,
@@ -614,7 +614,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Right_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Right_1.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Right_1.png",
         "smoothed": false,
         "userAdded": false,
@@ -627,7 +627,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Right_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Right_2.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Right_2.png",
         "smoothed": false,
         "userAdded": false,
@@ -640,7 +640,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Right_3.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Right_3.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Right_3.png",
         "smoothed": false,
         "userAdded": false,
@@ -653,7 +653,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Right_4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Right_4.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Right_4.png",
         "smoothed": false,
         "userAdded": false,
@@ -666,7 +666,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Up_1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Up_1.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Up_1.png",
         "smoothed": false,
         "userAdded": false,
@@ -679,7 +679,7 @@
         "alwaysLoaded": false,
         "file": "assets/Kid 1_Walk Up_2.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Kid 1_Walk Up_2.png\",\"extension\":\".png\"}",
         "name": "Kid 1_Walk Up_2.png",
         "smoothed": false,
         "userAdded": false,
@@ -882,6 +882,141 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Shadow/9cdb9f7a2c431a086633a3c7d72fd023162e090cfffa164c3331d70fdb4f3330_Person.png",
           "name": "Person.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/tilemap.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/background/tilemap.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Left.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Idle Left.png\"}",
+        "name": "Idle Left",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Left2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Left2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Left3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Left3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Left4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Left4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Left5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Left5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Right.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Right",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Right2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Right2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Right3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Right3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Up.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Up",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle Up2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle Up2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk Down.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk Down",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk Left.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk Left",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk Up.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk Up",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk Up2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk Up2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -913,7 +1048,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.967864077869543,
+        "zoomFactor": 1.2478331320203846,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -931,7 +1066,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "interactives",
-          "name": "Kid1",
+          "name": "Player",
           "persistentUuid": "e04de6f3-62b2-426f-ba99-69bb61092fde",
           "width": 0,
           "x": 750,
@@ -1172,13 +1307,34 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "interactives",
+          "name": "NewTileMap",
+          "persistentUuid": "c83868b1-bcec-4a3a-ae5b-13aa17dd56b9",
+          "width": 0,
+          "x": 547,
+          "y": 184,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":25,\"dimY\":25,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,112,0,0,80,0,16,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0],[0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,112,16,32,65,0,0,0],[0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,32,0,0,0,0,0,64,80,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0],[0,0,0,0,0,0,0,0,113,0,0,0,32,0,0,0,0,0,0,113,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,65,16,0,0,0,0,0,0,80,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0],[0,0,64,0,0,16,0,0,0,0,32,0,0,0,0,0,0,0,0,0,64,0,0,0,0],[0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0],[0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,112,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,16,0,0,113,0,0,0,0,0,0,0,65,32,0,0,64,0,0],[0,0,0,0,32,0,0,0,0,0,0,0,0,0,80,0,0,0,0,16,0,0,0,0,0],[0,0,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,32,0,0,0,32,0,0,0],[112,0,0,81,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,16,64,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,80,80],[0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,113,0,0,16,0,0,0,0,81,0],[0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0],[0,0,0,32,0,64,0,0,80,0,0,0,0,0,32,0,32,0,0,80,0,0,0,0,0],[0,0,113,0,0,0,64,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,64,0,0],[0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,112,80,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,0,0,0,0,0,0]]}]}"
+            }
+          ],
+          "initialVariables": []
         }
       ],
       "objects": [
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "c8477c4c99a18c86dfbf24b5dc7a4d27e42ea61e1d79bdd271db666f617cea9a",
-          "name": "Kid1",
+          "name": "Player",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -1215,6 +1371,7 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Down\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":8,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAbBJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMdPEfqF1Q0579gYCAUCpfpBFlMagKToRwkAfI6HhQi+QKBUP8zz9IwAnAFw/BUPSiqwFPsC5hMbAJTqx5UNiLWfWP3wAADFXvQfNri+oMkxKGasy10C5y9l+YWRFSjVjx77lAYgsfqxBgC652E+hwUCoQCgVD84MOgUARhZoC7Tn0FfTZjBd9kThs1RMmC/w9gXb71laJq+EWdBCEoF5OpHTkGUBiAp+nEGgHXtXoajzc7gAICxSQkASvXTKwKwVoOwWEQuBAh5HqYWORWQqh9ZL6UBSKx+rLVAmrIPg/PTSyiF4F5pPYZZd7cQVQuQqx9WENIzAjACYG1/EjjPM9sYowTA3yNnwWVCcOE8vGUApfpBbQBQAGKzn5QIIFY/1ixgKyUB9vzhZy/ANDKfmJYgufpBWQAUgBO6t2G1v6DUi6gIIEU/1rY9rCkJ8yw6n1BbnRL9yM1YdPtB9hITAfBqG9p3wWYmTA1RnRtCHh7K8gB1RQQ32v17WQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAXtJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMd/jE5g4BGTRHHHl1fPGfiXLmAgFAiU6gdZSmkAkqIfJQBwOR4WEoQCgVL9MM/TMwIGVQBQGoDk6IcHAEjzdWasWR8jS2r+ZcTICpTqxxf7tEyB4ADAlWcIFUaw8oBS/TA3DEQEYGQBkCOWpwUwRM7aAKZBAMYG0dhiHxZQsFRAqn5KA5AS/RgBUJfpz6CvJsxgXbuX4WizM9hvMPbFW28ZmqZvxFkTgBxCqX56R8CgqgapEYCkRgDWLKBs5M7AbGOMUgT8PXKW4e65nURlAXL1D4pq8G9hJQPIs9gAKFCY+9vxZgFK9YOyALkBCCuDSNGPNQvASmNQgQcCyHxiWoLk6gd5ABSAtya1ge1Ft18tr4qoCCBFP9a2PaxURa/mCHkeuTYAscnRj1yiY6tmCbmBVP1EdW4ItQeGsjwAQ1PyKNcsgawAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Kid 1_Idle Down_1.png\",\"Kid 1_Idle Down_2.png\",\"Kid 1_Idle Down_3.png\",\"Kid 1_Idle Down_4.png\"],\"name\":\"Idle Down\"}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -1235,20 +1392,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1271,20 +1428,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1307,20 +1464,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1343,20 +1500,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1371,11 +1528,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Left\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAZ1JREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAFoIBBnb/0cPlHVnDxKdUijVT+8IQfEYyPFThH5huCHnHRsDMYFAqX6QxZQGIKn64QGAy/Gw0CAUCJTqh3me3hGAEgDRf9gwYt9S7AtYjJgAoFQ/Ns/TOgJQAqAu059BX00YHgjrcpegBMhSll84swIoBVCqn9IAJEc/SgCs7U/CSAHIgUAoACjVT2kAkqMfawD4LnvCsDlKBhwYF2+9Zbg7eTsDPs/D8i8sACjVjxwLtI4ArAFgXbuX4WizMzwAmqZvJFgLgLIALAAo1U9pAJKiH6MaRE7GoNgnxvOwGEMOBFjqIVY/NQOQlAjAaOCAHGIrJQH2U/iPRwxpyj4MbKd3EUwByIFArn5sAVhz5jvR9pOjHyMF/C2sBPtlg9xLhufNM0gKAJADqKH/75GzDM5PL5EcATD7SdGPNwWAAuLwsxdExz6sMISlAEr0F5R6gSOAUPsDvdqCpWBi9WNt4yM3J4lpAmNzBExssOsnupND704KvewDAPTtxCgh7vCHAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAYFJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAFoIBBnb/0cPlHVnDxKdUijVT+8IQfEYyPF/CytR3PDl1XMG/qULGIgJBEr1gyymNABJ1Q8PAGyOh4UEMYFAqX6Y5+kdAYMmACgNQHL1owTAdWaM7I+SHTT/MuLMCiAHUKofPfbpkQLBAYAt3+ArjNDLA0r1w9xAaQCSox8lBdRl+oP9HTlrA8PytAAwDQP4Yh/mAXL1UxqAlOhHCYC1/Ulg/1rX7mU42uwMZmuVzGUAef5jdALD3qJEnNUhyBGU6ic3ACmJALyFIKz0B+XNjTEeeNsC+KpAYvVTGoDk6McaACCPg8CzFfPBsQ/K8/5LdvzHFwjIAUCpfvTCj9gAxFWF4tOP0RD6ZeoGtp/Zxpjh1qQ2eAAQ00IDBQKl+mGeAAUiKRGA3o4gVj9GskavzggVfugBQw39oEAkJwJggUCKfqz5GrlUJaYJjC0QYGKDXT/RnRxissBQVAMADXq+KLdzTKUAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Idle Left2\",\"Idle Left3\",\"Idle Left4\",\"Idle Left5\"],\"name\":\"Idle Left\"}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Left_1.png",
+                      "image": "Idle Left2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1391,27 +1549,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Left_2.png",
+                      "image": "Idle Left3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1427,27 +1585,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Left_3.png",
+                      "image": "Idle Left4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1463,27 +1621,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Left_4.png",
+                      "image": "Idle Left5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1499,20 +1657,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1527,11 +1685,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Right\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAZpJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJ4QCDK2/48uve7sQaJTDaX66RE5OD0DcvwUoV8Ybsh5x8ZATCBQqh9kMaUBSIx+rAGAy/Gw0CAUCJTqh3meHhFAMACOv+LBSAVLWX7hTQXIAUCpfmzZgJoRgBEAIMdH/2FDsTdocgycf/HWW4am6RtxBgCl+tFjn9IAJKSfYAAgex4WCsGF84gOAEr1gwOEhhGAMwuAUoFyrieDvpow2N++y54wbI6SAbPxBQAsBsnVj56CKA1AQvrx1gJ1mf7wALCu3ctwtNmZqACABQK5+mGBQI8IwFungxyC7AliYh+58KBEP7peWkUA3hTwy9SNYdbdLQwrOeTA/jr87AVRbQBYCqCG/hYTTngqJCUCQAEIsp+QfqICQLI2gyHgkTg4EJj724kKBJgDQAFIqX5QBOyV1mNgtjEmy358+glmAVspCXiqJiUFwFIBpfpBjSFQAE7o3kZSCkSuTvHpJ9iuR25OEtMERm+4DHb9BAOAHh2SgbQDAJNioCh8660vAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAXtJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJ4QCDK2/48uve7sQaJTDaX66RE5OD0DcvzH6AQGHjFJFHcw97czEBMIlOoHWUppABKjH2sA4HI8LCQIBQKl+mGep0cEDMoAoDQASdGPEQAgzdeZMbI+SjbQ/MuIMxtQqh9f7NMiBaIEALY8g68gQi8LKNUP8zw9IwBnFkB2xPK0AIbIWRsYQDQINE3fiLcgRE8FxOqnNADJ0Y81AJz75v/nX7qAARQI13qSwZ62rt3LcLTZGcwOLpyHNwAo1U9uAMJSKyn6cVaD/kt2/AeV9uSWxJTqh3mCnAhAzkqE9GMNAJDjN8Z4MMIcIRWRiNIeIFQNUqofOSbJjQBiq1K8rTpYAKjlVTH8PXIW7C6207uIagghxwKl+pEjgFDgIxfa2CIQXT9RAQAzFF/1h622QM+L5OqHBSApgY8tArDpJ9iuRy5ZiWkCowfEYNdPMADo0SEZSDsArN6GKJo5kQYAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Idle Right\",\"Idle Right2\",\"Idle Right3\",\"Kid 1_Idle Right_3.png\"],\"name\":\"Idle Right\"}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Right_1.png",
+                      "image": "Idle Right",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1547,27 +1706,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Right_2.png",
+                      "image": "Idle Right2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1583,20 +1742,56 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Idle Right3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 10
+                          },
+                          {
+                            "x": 15,
+                            "y": 23
+                          },
+                          {
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1619,27 +1814,40 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
-                    },
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle Up\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAY9JREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMdPEfqF1Q0579gYCAUCpfpBFlMagKToRwkAfI6HhQi+QKBUP8zz9IyAQRUAlAYgOfrhAQDSHP2HDRzRlmJfsGaB4694wOJLWX5hZAVK9ROKfVqlQKwBQKgQIhQAlOqnZwRgZAFYKsDlCWyeh6lFTgWk6idGL8xMakYARgDUZfoz3J28Hav7lXM9GZqmb8RZE4A8Qal+ekcA1moQ5Al9NWGUQLh46y1ezyOnAnL1UyMASY0ArLVAmrIPg/PTSygBsFdaj2HW3S0MxFSD5OqHFYTkBiA5+jECYG1/EoPvsicMzDbGKAHw98hZhs1RMgzBhfPwZgFK9YPaAKAAxGY/KRFArH6sWcBWSgLs+cPPXoBpZD4xLUFy9YOyACgAJ3Rvw2p/QakXURFAin6sbXtYUxLmWXQ+oWqOEv3IzVh0+0H2EhMBMPcRo5+ozg0hDw9leQCHOrAo7+T77QAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAXtJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUhUiqFUPz0jBcNDIMf/LazE6gbm/nYGQoFAqX6QxZQGICn6UQIApPFjdAIDj5gk1gD48uo5A//SBTgDgVL9MM/TMwLgAQALNWICAORQ9JRAqX6Y54mxH1cqJCcCwAEA0/hsxXwGqYhEcOyjpwJQ7IMATA1ySqBUP3KyJyYAqBkBOAMAV0FEbABQqp9eEYCSBUChj5wK0D2BzfMwNdhSAbH6idELM4vaEYASALDC59akNqwRqJZXBRbHVhsgl/7k6h+ICMCoBXCVwLAQwVcV4qsCCemnRgCSE4EYAUBMIwRfKUypfnpHANYU8PfIWewNIRtjrMkfuRwAeYAS/ZQGIKn6sbYErzNDWsKafyHSyHxiWoLk6odlA1gZgm4/qAwiJguSoh9r2x7WqIF5Fp1PKJQp0Y/cjEW3H1v9j+4WUvUT1bkh5OGhLA8Am83aKGfSnUYAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[2]}}\",\"resourceNames\":[\"Idle Up\",\"Kid 1_Idle Up_1.png\",\"Idle Up2\",\"Kid 1_Idle Up_3.png\"],\"name\":\"Idle Up\"}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Right_4.png",
+                      "image": "Idle Up",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1655,36 +1863,24 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Idle Up",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.25,
-                  "sprites": [
+                    },
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Kid 1_Idle Up_1.png",
@@ -1703,27 +1899,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Up_2.png",
+                      "image": "Idle Up2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1739,20 +1935,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1775,56 +1971,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Idle Up_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 10
-                          },
-                          {
-                            "x": 14,
-                            "y": 10
-                          },
-                          {
-                            "x": 14,
-                            "y": 24
-                          },
-                          {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1839,6 +1999,7 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Walk Down\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":5,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAchJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUiXFENP+zE8BLJ8itAvrAkj5x0bAzGBQIkH6G0/SgDgsxwWIoQCgRIPDIT9OAPg+CselFRgKfYFzMcXAJR6AFk/veyHBwDI8ug/bHBPB02OQQmAdblL4PylLL+wZgVKPDBQ9mMNAHTPw3wOCwRsAUCpB5D109N+jCxQl+nPoK8mzOC77AnD5igZsN9h7Iu33jI0Td+IM/ZhKYgcD4DsAQUCve3HGQDWtXsZjjY7gwMAxsYXAJR6AF0/vezHWg3CYgG5ECDkeWp4AN0MetiPNQB+mboxOD+9hFIIhv94hLcGgDke1IZ4FR4KzkboHhBbuZpoM1ZyyKHo3yutx8B2ehfedgisECbFfpwBwGxjDHYAc387w9/CSoYNci8ZggvnEXTA2v4kcJkB0w/zxd8jZ8FlCrFmBDwSh9sNMgOkn5gAINV+rAFgKyUBdvfhZy/AHoa17IhtBSLrB5mDbh7WZiaSILJ9IDYp+tHVE7KfqAAg5GB0efQAIyUAsZlFSgDAsiKIhkUYPvuxdm4ocTCpgUWMelq6BwArmAY3zc8ROQAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAaJJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUiXFENP+zE8BLL8Y3QCA4+YJEoYfHn1nIF/6QIGYgKBEg/Q236UAMBlOSwkiAkESjwwEPZTNQAo9cBA6IcHAMjy68xYsz5GcaD5lxFrVqDEAwNlPzgAcOVZQjUEcnlAiQcG0n6MLABKBcvTAhgiZ20A0yAAY4NobLFPDQ/AIoLe9mMEQF2mP4O+mjCDde1ehqPNzuAAgLEv3nrL0DR9I86aAJYKSA1AWEoD6ae3/Virwb+FlVhTP3N/O95qkFIPwFIBudUwOfZjDQBQMlTLq0IJhFuT2rAmf2RFsBQgFZGItR3xbMV8sswAVb/k6kWuwrGZgTMAlI3cwXrZTu9i+GXqxsBsY8xATAoApZ6/R85iT0EkmgGzG2TY3XM7iQo8Uu3HGQAgS2EFHqyQI7YVCKtOQfpBAJlPrBkgfSC1yLULruoXWyqEuZ+Q/UQFAKHqEF0ePcBICUBsZlESgMjVPLbAx9q5ocTBpAYWMepp6R4AGfn0KD3DTCYAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Kid 1_Walk Down_1.png\",\"Kid 1_Walk Down_2.png\",\"Kid 1_Walk Down_3.png\",\"Walk Down\"],\"name\":\"Walk Down\"}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -1859,20 +2020,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1895,20 +2056,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1931,27 +2092,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Walk Down_4.png",
+                      "image": "Walk Down",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1967,20 +2128,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -1995,11 +2156,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Walk Left\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAZZJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAFoIBBnb/0cPlHVnD9ItpdDbfhSPgSyfIvQLI1HkvGNjIDYQKPHAQNgPDwBclsNCg5hAoMQDA2U/SgBE/2HDiH1LsS9gMUIBQKkHQPoHwn6UAKjL9GfQVxOGB8K63CUoAbKU5RfOrEANDwyE/SgBsLY/CSMFIAcCoQCg1AMDYT/WAPBd9oRhc5QMODAu3nrLcHfydgZ8ngepA6UASj0A009P+7EGgHXtXoajzc7wAGiavpFgLYAcAJR6gJ72Y1SDyLEIin1iPI+eAsjxALZURA/7MRo4oJi0lZIAx374j0cMaco+DGyndxFMAbg8UHPmO9H6YWbQ036MFPC3sBLs+b9HzjLMuruFQbI2gyG4cB7RAfDL1A2sH6QXBEgNQJj9G+ReMjxvnkGyflLtx5sCQB44/OwF2COktARhMVhQ6kV04MGqH+SWJMwckBtoZT/WAIB5GNkxxDoAloxhHiJFH7JekD562E+3Tg5GA2OQCAAAilS/KB7psUIAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAZdJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAFoIBBnb/0cPlHVnD9ItpdDbfhSPgSz/W1iJ4v8vr54z8C9dwEBsIFDigYGwHx4A2CyHhQSxgUCJBwbKfqoFAKUeGCj9KAFwnRkj+6NkB82/jDizAjU8MBD2gwMAW77FVztgKw9AZpDrgYG0HyUF1GX6M0TO2sCwPC0A7H8QGwYIxT4p1SmuABwI+1ECYG1/EoN17V6Go83OcP9olcxlAHn+Y3QCw96iRJzVISgWyfUALBUOhP14C0FY6Q+qGjfGeOBtC4ACgFIP4KqCaWk/zgAAef7ZivnglABKAYQcgasKBOknph2Brh9mv7KROwPb6V00sx+jIfTL1A0lOzPbGDMw97cT1RACeQKm/+65nWBziPUALBvA9IPsvTWpDa6fmIYYOfZjJGv00hwU+yBAjANgnoDVBmp5VUQHHizUkWsEmDn4CmD0whfZ/cTYjzUAYB5GdgyxAYBerZKiD1kvSB/MfnLNICbi6NbJIaWapKdaACw6sigBkqmXAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Walk Left\",\"Kid 1_Walk Left_2.png\",\"Kid 1_Walk Left_3.png\",\"Kid 1_Walk Left_4.png\"],\"name\":\"Walk Left\"}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Walk Left_1.png",
+                      "image": "Walk Left",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2015,20 +2177,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2051,20 +2213,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2087,20 +2249,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2123,20 +2285,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2151,6 +2313,7 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Walk Right\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAZRJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJ4QCDK2/48uve7sQbqlGnrYj9MzIMunCP3CCJ6cd2wMxAYCJR6gl/1YAwCX5bDQICYQKPEAPe0nGADHX/FgpIKlLL/wpgJKPYCsn9b2YwQAyPLoP2wong6aHAPnX7z1lqFp+kaiA4BUD9DbfoIBgOx5WCgEF87DGQCUegBdP63tx5kFQKlAOdeTQV9NGOxv32VPGDZHyYDZpAQAqR4AmQ8LBHrYj7cWqMv0hweAde1ehqPNzgQDgFIPwFIZKBDoYT/eOh3dEYRiH7ngoMQDuAKBFvbjTQG/TN0YZt3dwrCSQw7spsPPXpDUBgDpbzHhhKciUj1AD/vxBsDa/iSG580zGNKUfRiYbYzBgcDc305UIIBSAMwDIH0gM0CA7fQukvVL1mYwBDwSp4n9eAMAZKOtlAQ8ZZOSAmBlASgQJ3RvIysFwewG2QsDxLZCibWfYACADAJZCmvWkuIAmCPIdTyyPlrZT7eODXIBOZjYAMwioyjmjPbNAAAAAElFTkSuQmCC\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAYtJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJ4QCDK2/48uve7sQbqlGnrYj9MzIMs/Ricw8IhJooQBc387A7GBQIkH6GU/1gDAZTksJIgJBEo8QE/7aRIAlHqAnvoxAgBk+XVmjKyPkg00/zLizQaUeIDe9qMEALY8i6+WwFYWUOKBgbAfZxZATgXL0wLA4RA5awMDiN00fSPWFEAND4DsQQ9EWtqPNQCc++b/51+6gAEUCNd6kuGJwLp2L8PRZmeG4MJ5BLMAOQGInNpggUBr+3FWg/5LdvwHlfbkVIWUBiAsIMitSUixH2sAwDz/y9SN4e65nQxSEYko7QFSqkGQZ8hpS4A8Tw/78TaE/hZWMtya1MagbOQOT51sp3cRbAihByBIM8wMYvTDygFYAKjlVTH8PXIW7AZi9JNiP94AAFmInJcJVX/oNQYoFmGBCJIjRT9yQQjSBwPEtkJhgUjIfoIBADIIZCmshCfFATBHkOt4ZH20sp9uHZvB2usEANW7kSiiiLmKAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Kid 1_Walk Right_1.png\",\"Kid 1_Walk Right_2.png\",\"Kid 1_Walk Right_3.png\",\"Kid 1_Walk Right_4.png\"],\"name\":\"Walk Right\"}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
@@ -2171,20 +2334,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2207,20 +2370,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2243,20 +2406,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2279,20 +2442,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2307,11 +2470,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Walk Up\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":24,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAY1JREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUiXFENP+zE8BLJ8itAvrAkj5x0bAzGBQIkH6G0/SgDgsxwWIoQCgRIPDIT9VA0ASj0wEPrhAQCyPPoPGziiLcW+YM0Cx1/xgMWXsvzCmhUo8cBA2Y81AAjVDNgCgFIPIOunp/0YWQCWCnA5Al/sE9ILM5MSMyjRi81+jACoy/RnuDt5O1b/K+d6MjRN34izJiAmFnF5AGQhSD+97cdaDYIcoa8mjBIIF2+9xet5mGJ8gYDP88j66Wk/znbASg45lADYK63HwHZ6F952AKwQfBUeijUAxVauZiC2GqWX/VgDYG1/EkPAI3EG5v52hr+FleCA+HvkLFEBANLru+wJA7ONMUoAgvRvjpJhCC6cRzAQ6Wk/1qYtrCUHavWB2LZSEmDPHH72gmBLEF09SB8p+mFlAYimh/0E2/akBgC6B7DxCVVzyPK0tp9gAFDqAVI8i0stcoqkhnnIZgAA/eGsKC3SKcsAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":4,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2],[3]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAAAXNSR0IArs4c6QAAAaJJREFUWEdjZBjhgHGE+59hNABGU8AID4HRLDDCE8BoITiaBUazAJYQCDK2/48tYNadPUiXFENP+zE8BLL8b2El1oTB3N/OQEwgUOIBetuPEgAgyz9GJzDwiEliDYAvr54z8C9dgDcQKPHAQNgPDwBYrBETAKDQwZYSKPHAQNkPDgCYw5+tmM8gFZEIjn30VACKfRCAqUFPCZR4YCDtxxkAuGoHbAFAqQew6aeX/ShZAJT8kVMBuiPwxT4hvTCzKDGDEr247EcJAFjpf2tSG9YIUMurAotjqw2IiUVcHoBlw4GwH6MWwFUFwkIEX1UIqwHwBSAx+vE1zojRT4r9WNsB+ByArx0AKwjxtSNw1SAwO3G1IWDy1LYfZ0Po75GzDGyndzH8MnUD23333E4Gzb+MRLUBQLGEDYAChlBjChQA15n/MygbuYONgLmB2caYKL0wO4i1H2vTFhYLoNCGOQhkIKEAgOVlkAdg6kE0Mp9QSxKbfcjuwZc6ybGfYNue1ACAOQI5qVPiAUIBhi1A0O3DZz/BAMDmIUKxQKk8KQFGqV0Aqb/uKIP1vpsAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"resourceNames\":[\"Walk Up\",\"Kid 1_Walk Up_2.png\",\"Kid 1_Walk Up_1.png\",\"Walk Up2\"],\"name\":\"Walk Up\"}}",
                   "timeBetweenFrames": 0.25,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Walk Up_1.png",
+                      "image": "Walk Up",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2327,20 +2491,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2363,27 +2527,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Walk Up_3.png",
+                      "image": "Kid 1_Walk Up_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2399,27 +2563,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Kid 1_Walk Up_4.png",
+                      "image": "Walk Up2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2435,20 +2599,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
+                            "x": 1,
                             "y": 10
                           },
                           {
-                            "x": 14,
+                            "x": 15,
                             "y": 10
                           },
                           {
-                            "x": 14,
-                            "y": 24
+                            "x": 15,
+                            "y": 23
                           },
                           {
-                            "x": 2,
-                            "y": 24
+                            "x": 1,
+                            "y": 23
                           }
                         ]
                       ]
@@ -2686,6 +2850,21 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewTileMap",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "assets/background/tilemap.png",
+            "rowCount": 9,
+            "columnCount": 16,
+            "tileSize": 16,
+            "tilesWithHitBox": ""
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -2695,6 +2874,9 @@
             "folderName": "interactives (prototype)",
             "children": [
               {
+                "objectName": "NewTileMap"
+              },
+              {
                 "objectName": "NPC"
               },
               {
@@ -2703,7 +2885,7 @@
             ]
           },
           {
-            "objectName": "Kid1"
+            "objectName": "Player"
           },
           {
             "objectName": "Brick"
@@ -2728,7 +2910,7 @@
                     "value": "TopDownMovementBehavior::XVelocity"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "TopDownMovement",
                     ">",
                     "0"
@@ -2741,7 +2923,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "Animation",
                     "=",
                     "\"Walk Right\""
@@ -2757,7 +2939,7 @@
                     "value": "TopDownMovementBehavior::XVelocity"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "TopDownMovement",
                     "<",
                     "0"
@@ -2770,7 +2952,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "Animation",
                     "=",
                     "\"Walk Left\""
@@ -2786,7 +2968,7 @@
                     "value": "TopDownMovementBehavior::YVelocity"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "TopDownMovement",
                     ">",
                     "0"
@@ -2799,7 +2981,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "Animation",
                     "=",
                     "\"Walk Down\""
@@ -2815,7 +2997,7 @@
                     "value": "TopDownMovementBehavior::YVelocity"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "TopDownMovement",
                     "<",
                     "0"
@@ -2828,7 +3010,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "Animation",
                     "=",
                     "\"Walk Up\""
@@ -2845,7 +3027,7 @@
                     "value": "TopDownMovementBehavior::IsMoving"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "TopDownMovement"
                   ]
                 }
@@ -2856,7 +3038,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "Animation"
                   ]
                 },
@@ -2865,7 +3047,7 @@
                     "value": "ChangeSprite"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "=",
                     "0"
                   ]
@@ -2875,7 +3057,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "Animation",
                     "=",
                     "\"Idle Down\""
@@ -2891,7 +3073,7 @@
                     "value": "TopDownMovementBehavior::IsMoving"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "TopDownMovement"
                   ]
                 }
@@ -2902,7 +3084,7 @@
                     "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
                   },
                   "parameters": [
-                    "Kid1",
+                    "Player",
                     "Animation"
                   ]
                 }
@@ -2948,7 +3130,7 @@
               },
               "parameters": [
                 "",
-                "Kid1",
+                "Player",
                 "",
                 "\"interactives\"",
                 ""
@@ -2985,7 +3167,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Kid1",
+                "Player",
                 "FlowerBulb",
                 "",
                 "",
@@ -3032,7 +3214,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Kid1",
+                "Player",
                 "NPC",
                 "",
                 "",
@@ -3070,7 +3252,7 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Kid1",
+                "Player",
                 "FlowerBulb",
                 ""
               ]
@@ -3080,7 +3262,7 @@
                 "value": "SeparateFromObjects"
               },
               "parameters": [
-                "Kid1",
+                "Player",
                 "NPC",
                 ""
               ]
